@@ -1,0 +1,55 @@
+2025-07-09 10:25:31,529 - INFO - Received image upload request.
+2025-07-09 10:25:31,603 - INFO - Image successfully loaded.
+2025-07-09 10:25:31,616 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:25:31,839 - ERROR - Error processing image: Input 0 of layer "mobilenetv2_1.00_224" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 224, 224, 4)
+2025-07-09 10:25:38,879 - INFO - Received image upload request.
+2025-07-09 10:25:38,879 - INFO - Image successfully loaded.
+2025-07-09 10:25:38,893 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:25:38,968 - ERROR - Error processing image: Input 0 of layer "mobilenetv2_1.00_224" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 224, 224, 4)
+2025-07-09 10:26:11,061 - INFO - Received image upload request.
+2025-07-09 10:26:11,062 - INFO - Image successfully loaded.
+2025-07-09 10:26:11,076 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:26:11,156 - ERROR - Error processing image: Input 0 of layer "mobilenetv2_1.00_224" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 224, 224, 4)
+2025-07-09 10:26:47,745 - INFO - Received image upload request.
+2025-07-09 10:26:47,745 - INFO - Image successfully loaded.
+2025-07-09 10:26:47,839 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:26:47,913 - ERROR - Error processing image: Input 0 of layer "mobilenetv2_1.00_224" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 224, 224, 4)
+2025-07-09 10:27:17,312 - INFO - Received image upload request.
+2025-07-09 10:27:17,312 - INFO - Image successfully loaded.
+2025-07-09 10:27:17,322 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:27:17,404 - ERROR - Error processing image: Input 0 of layer "mobilenetv2_1.00_224" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 224, 224, 4)
+2025-07-09 10:27:17,795 - INFO - Received image upload request.
+2025-07-09 10:27:17,795 - INFO - Image successfully loaded.
+2025-07-09 10:27:17,803 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:27:17,879 - ERROR - Error processing image: Input 0 of layer "mobilenetv2_1.00_224" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 224, 224, 4)
+2025-07-09 10:27:45,409 - INFO - Received image upload request.
+2025-07-09 10:27:45,410 - INFO - Image successfully loaded.
+2025-07-09 10:27:45,416 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:27:45,506 - ERROR - Error processing image: Input 0 of layer "mobilenetv2_1.00_224" is incompatible with the layer: expected shape=(None, 224, 224, 3), found shape=(1, 224, 224, 4)
+2025-07-09 10:30:12,651 - INFO - Received image upload request.
+2025-07-09 10:30:12,673 - INFO - Image successfully loaded.
+2025-07-09 10:30:12,686 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:30:14,939 - INFO - Prediction successful: [('n02124075', 'Egyptian_cat', np.float32(0.4018521)), ('n02123045', 'tabby', np.float32(0.16499214)), ('n02123159', 'tiger_cat', np.float32(0.115246795))]
+2025-07-09 10:30:14,940 - INFO - Sending response: [{'label': 'Egyptian_cat', 'probability': 0.4018521010875702}, {'label': 'tabby', 'probability': 0.16499213874340057}, {'label': 'tiger_cat', 'probability': 0.11524679511785507}]
+2025-07-09 10:33:47,309 - INFO - Received image upload request.
+2025-07-09 10:33:47,309 - INFO - Image successfully loaded.
+2025-07-09 10:33:47,322 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:33:47,443 - INFO - Prediction successful: [('n02124075', 'Egyptian_cat', np.float32(0.4018521)), ('n02123045', 'tabby', np.float32(0.16499214)), ('n02123159', 'tiger_cat', np.float32(0.115246795))]
+2025-07-09 10:33:47,443 - INFO - Sending response: [{'label': 'Egyptian_cat', 'probability': 0.4018521010875702}, {'label': 'tabby', 'probability': 0.16499213874340057}, {'label': 'tiger_cat', 'probability': 0.11524679511785507}]
+2025-07-09 10:36:16,204 - INFO - Received image upload request.
+2025-07-09 10:36:16,205 - INFO - Image successfully loaded.
+2025-07-09 10:36:16,213 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:36:16,331 - INFO - Prediction successful: [('n02129604', 'tiger', np.float32(0.73821896)), ('n02123159', 'tiger_cat', np.float32(0.15853544)), ('n02128925', 'jaguar', np.float32(0.008059401))]
+2025-07-09 10:36:16,331 - INFO - Sending response: [{'label': 'tiger', 'probability': 0.7382189631462097}, {'label': 'tiger_cat', 'probability': 0.158535435795784}, {'label': 'jaguar', 'probability': 0.00805940106511116}]
+2025-07-09 10:40:20,883 - INFO - Received image upload request.
+2025-07-09 10:40:20,924 - INFO - Image successfully loaded.
+2025-07-09 10:40:21,013 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:40:22,783 - ERROR - Error processing image: [Errno 32] Broken pipe
+2025-07-09 10:40:25,911 - INFO - Received image upload request.
+2025-07-09 10:40:25,912 - INFO - Image successfully loaded.
+2025-07-09 10:40:25,917 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:40:26,024 - ERROR - Error processing image: [Errno 32] Broken pipe
+2025-07-09 10:41:18,596 - INFO - Received image upload request.
+2025-07-09 10:41:18,601 - INFO - Image successfully loaded.
+2025-07-09 10:41:18,657 - INFO - Image successfully resized and preprocessed.
+2025-07-09 10:41:18,764 - ERROR - Error processing image: [Errno 32] Broken pipe
